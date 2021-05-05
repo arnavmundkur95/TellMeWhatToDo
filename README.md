@@ -5,5 +5,5 @@ An application I built in a day for a company coding challenge. The application 
 
 
 
-![sc1](https://user-images.githubusercontent.com/39627628/117152024-ec4daa80-adb9-11eb-87c6-145709e5adee.jpeg)
-![sc2](https://user-images.githubusercontent.com/39627628/117152037-eeb00480-adb9-11eb-9717-82dd2c009e9b.jpeg)
+![sc1](https://user-images.githubusercontent.com/39627628/117152024-ec4daa80-adb9-11eb-87c6-145709e5adee.jpeg | width=100)
+![sc2](https://user-images.githubusercontent.com/39627628/117152037-eeb00480-adb9-11eb-9717-82dd2c009e9b.jpeg | width=100)
