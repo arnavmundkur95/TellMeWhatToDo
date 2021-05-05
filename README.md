@@ -4,6 +4,6 @@ An application I built in a day for a company coding challenge. The application 
 
 
 <div style="flex-direction: row;">
-<img src="https://user-images.githubusercontent.com/39627628/117152024-ec4daa80-adb9-11eb-87c6-145709e5adee.jpeg" width="200"  />
-<img src="https://user-images.githubusercontent.com/39627628/117152037-eeb00480-adb9-11eb-9717-82dd2c009e9b.jpeg" width="200"  />
+<img src="https://user-images.githubusercontent.com/39627628/117152024-ec4daa80-adb9-11eb-87c6-145709e5adee.jpeg" width="500"  />
+<img src="https://user-images.githubusercontent.com/39627628/117152037-eeb00480-adb9-11eb-9717-82dd2c009e9b.jpeg" width="500"  />
 </div>
